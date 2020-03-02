@@ -1,9 +1,9 @@
 # 2D-Game-engine-test
 A test to try out OpenGl for a game.
 
-## Required Libraries:
-*GLAD - Function loading library for OpenGL
-*GLFW3 - The best windowing library I've found
+### Required Libraries:
+* GLAD - Function loading library for OpenGL
+* GLFW3 - The best windowing library I've found
 
 >Note: I have found that the OpenGl's state machine is rather difficult to maintain. There was a bug that took me 
 quite a while to track down due to the nature of how OpenGl requires memory to be uploaded to the GPU.
