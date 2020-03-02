@@ -9,3 +9,7 @@ A test to try out OpenGl for a game.
 quite a while to track down due to the nature of how OpenGl requires memory to be uploaded to the GPU. I have moved
 to the Vulkan API because the lower level API appeals to my interests and the memory operations are explicit and has
 better debugging infastructure so I will have a better idea of when there are bugs.
+
+### Note
+* This demo uses instancing rendering to draw many textured squares. It has come to my attention that instance rendering is most useful
+for more complex geometry. So, in the end, instance rendering only introduced code complexity with no optimization.
