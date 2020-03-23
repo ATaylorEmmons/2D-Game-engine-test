@@ -1,4 +1,4 @@
-# 2D-Game-engine-test
+# OpenGL test
 A test to try out OpenGl for a game.
 
 ### Required Libraries:
